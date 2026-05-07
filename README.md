@@ -8,7 +8,7 @@ The diagram displays MRICloud brain parcellation data for Type 1 structures, sta
 
 The hosted Sankey diagram is available here:
 
-https://zixuanhe606.github.io/sankey-mricloud/sankey.html
+[https://zixuanhe606.github.io/sankey-mricloud/sankey.html](https://zixuanhe606.github.io/sankey-mricloud/sankey.html)
 
 ## File Included
 
